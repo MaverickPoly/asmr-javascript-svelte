@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+body {
+    background: linear-gradient(to bottom right, #111, #444, #111);
+    background-size: 200% 200%;
+    animation: body-animation 10s infinite alternate;
+    width: 100%;
+    min-height: 100vh;
+    color: white;
+}
+
+@keyframes body-animation {
+    0% {
+        background-position: 0 50%;
+    }
+    100% {
+        background-position: 100% 50%;
+    }
+
+}
