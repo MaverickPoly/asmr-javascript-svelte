@@ -1,0 +1,20 @@
+@import 'tailwindcss';
+
+body {
+    background: #222;
+    color: white;
+}
+
+
+
+/* Hide Number input controls */
+input[type="number"]::-webkit-outer-spin-button,
+input[type="number"]::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+    -moz-appearance: textfield;
+}
