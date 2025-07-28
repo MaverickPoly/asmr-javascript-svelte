@@ -98,9 +98,9 @@
 * Rearrange items with drag and drop.
 * Practice: events, state updates.
 
-17. **Pomodoro Timer**
+17. **Stopwatch**
 
-* Timer for focus sessions with start/pause/reset.
+* Stopwatch with start/pause/reset buttons.
 * Practice: intervals, time logic, styling.
 
 18. **Typing Speed Test**
