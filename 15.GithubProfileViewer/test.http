@@ -1,0 +1,5 @@
+### GET Github User Profile
+GET https://api.github.com/users/MaverickPoly
+
+### Get User's Repositories
+GET https://api.github.com/users/MaverickPoly/repos
