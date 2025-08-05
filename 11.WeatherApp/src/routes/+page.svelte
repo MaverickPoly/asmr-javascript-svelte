@@ -4,7 +4,7 @@
     let loading = $state(false);
     let error = $state("");
 
-    const apiKey = "ed2828e59ddf36874f1950c82bf3f254";
+    const apiKey = "";
 
     async function getWeather() {
         if (!city.trim())  return;
